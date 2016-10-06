@@ -1,0 +1,4 @@
+[submodule "embedded_knowledge_repo"]
+	url = git@github.com:airbnb/knowledge-repo.git
+	path = .resources
+	branch = refs/heads/master
